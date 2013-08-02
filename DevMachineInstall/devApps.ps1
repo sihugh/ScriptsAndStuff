@@ -1,7 +1,6 @@
 # Dev apps to install
 
 # Visual studio stuff
-cinstm VisualStudio2013Ultimate
 cinstm VisualStudio2012Ultimate
 
 # Visual studio add-ins
@@ -31,4 +30,3 @@ cinstm nodejs.install
 cinstm fiddler
 cinstm curl
 cinstm linqpad4
-
