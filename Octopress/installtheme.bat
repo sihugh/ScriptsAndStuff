@@ -1,5 +1,5 @@
 set THEME_NAME=darkstripes
-set GIT_URL=https://github.com/amelandri/darkstripes
+set GIT_URL=https://github.com/sihugh/darkstripes
 
 pushd ..\..\octopress
 pushd .themes
