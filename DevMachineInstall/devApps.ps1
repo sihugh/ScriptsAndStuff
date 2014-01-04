@@ -1,32 +1,32 @@
 # Dev apps to install
 
 # Visual studio stuff
-cinstm VisualStudio2012Ultimate
+cinst VisualStudio2012Ultimate
 
 # Visual studio add-ins
-cinstm xUnit.vs2012
-cinstm WebEssentials2012
-cinstm resharper -Version 7.1.3000.2254 # Use only resharper if you want the latests. This is what I have a license for
-cinstm typescript
-cinstm typescript.vs
-cinstm SpecFlow
+cinst xUnit.vs2012
+cinst WebEssentials2012
+#cinst resharper -Version 7.1.3000.2254 # Use only resharper if you want the latests. This is what I have a license for
+cinst typescript
+cinst typescript.vs
+cinst SpecFlow
 
 # databases and tools
-cinstm MsSqlServer2012Express
-cinstm mongodb
-cinstm MongoVUE
+cinst MsSqlServer2012Express
+#cinst mongodb
+#cinst MongoVUE
 
 # browsers
-cinstm Firefox
-cinstm GoogleChrome
+cinst Firefox
+cinst GoogleChrome
 
 # Other tools
-cinstm git
-cinstm notepadplusplus
-cinstm winmerge
-cinstm Console2
-cinstm 7zip
-cinstm nodejs.install
-cinstm fiddler
-cinstm curl
-cinstm linqpad4
+cinst git
+cinst notepadplusplus
+cinst winmerge
+cinst Console2
+cinst 7zip
+cinst nodejs.install
+cinst fiddler
+cinst curl
+cinst linqpad4
